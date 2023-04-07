@@ -23,6 +23,7 @@ APT_PACKAGES=(
 	'rpm2cpio'
 	'seclists'
 	'smbmap'
+	'snmp-mibs-downloader'
 	'snmpcheck'
 	'sshuttle'
 	'sshpass'
